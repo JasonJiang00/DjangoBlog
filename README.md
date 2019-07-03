@@ -1,2 +1,0 @@
-# DjangoBlog
-learn DjangoBlog
